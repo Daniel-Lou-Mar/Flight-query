@@ -104,9 +104,6 @@ The following external libraries are required for this application, as they are 
 - **flet**:  
   A framework for building interactive web, mobile, and desktop applications in Python. It is used to create the graphical user interface (GUI) of this application.
 
-- **errors** (module with `VanessaLovesDani`):  
-  A custom module included in the project for handling specific error cases. It is not part of the standard Python library and must be present within the project structure.
-
 ## How It Works
 
 1. **Input File Processing:**  
