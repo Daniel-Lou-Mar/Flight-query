@@ -118,7 +118,7 @@ class ConsultaVuelosApp(Row):
                         ft.Text("Github: ", size=18),
                         ft.TextButton(
                             "https://github.com/Daniel-Lou-M",
-                            on_click=lambda e: webbrowser.open("https://github.com/Daniel-Lou-M"),
+                            on_click=lambda e: webbrowser.open("https://github.com/Daniel-Lou-Mar"),
                             style=ft.ButtonStyle(
                                 color=ft.colors.BLUE
                             ),
