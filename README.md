@@ -130,3 +130,13 @@ The following external libraries are required for this application, as they are 
    Run the Python script (which is in Spanish) to process the file and perform the analysis.  
    ```bash
    python main.py
+
+## Example
+1. **Flights Query**
+
+  ![Texto alternativo](images-example/example-1.png)
+
+2. **Queries Made**
+
+  ![Texto alternativo](images-example/example-2.png)
+   
