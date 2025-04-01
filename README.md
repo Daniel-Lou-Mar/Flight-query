@@ -9,6 +9,7 @@ Each line of the input `.txt` file must follow a fixed-width format. For example
 ### Example Flight Record
 
 "W24","LPA","S","IB 1450      0000 0030000 28FEB28FEB 000ZZZ 0    ZZZZZZ   K 1 A                                     ","                           ","00:00","IB"," 1450","28/02/24","28/102/24","0030000","000","ZZZ","0","ZZZ","ZZZ"," ","K","1","A"
+
 The example above is representative of a flight record line in the expected text file. Each field in the line is fixed in width, and only specific slices are used in the application, as detailed in the next section.
 
 Even though the complete structure of the file includes many fields, the Python code only extracts and stores specific elements into the database. Below is an explanation of each element that is added by the Python code.
